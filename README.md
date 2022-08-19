@@ -12,8 +12,3 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page_id=manishkumart.visitor-badge.issue.1&left_color=green&right_color=red)
 
-<p align="center" >  
-  <a href="https://github.com/manishkumart/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=manishkumart&show_icons=true&theme=radical"/>
-  </a>
-  </p>
