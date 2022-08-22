@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Advance NLP
 - 👯 I’m looking to collaborate on some excitng reasearch work in AI space
 - 💬 Ask me about anaything
