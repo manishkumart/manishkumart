@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Advance NLP
 - 👯 I’m looking to collaborate on some excitng reasearch work in AI space
-- 💬 Ask me about from machine learning to NLP
+- 💬 Ask me anything about machine learning to NLP 
 
 
 <br>
