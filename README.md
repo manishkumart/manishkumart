@@ -25,5 +25,4 @@
 
 <br>
 
-![IMG-1359](https://user-images.githubusercontent.com/37763863/212781222-3b6591c6-9641-4b48-abbc-486f22979b7a.jpg)
 
