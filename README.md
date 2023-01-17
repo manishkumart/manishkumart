@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Advance NLP
+- 🌱 I’m currently learning Advance NLP and DL
 - 👯 I’m looking to collaborate on some excitng reasearch work in AI space
 - 💬 Ask me anything about machine learning to NLP 
 
