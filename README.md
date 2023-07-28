@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning Advance NLP and DL
-- 👯 I’m looking to collaborate on some excitng reasearch work in AI space
+- 🌱 I’m currently learning Advance NLP (LLM) and Computer Vision
+- 👯 I’m looking to collaborate on some exciting research work in the AI space
 - 💬 Ask me anything about machine learning to NLP 
 
 
