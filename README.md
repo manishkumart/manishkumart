@@ -32,7 +32,7 @@ I'm a Machine Learning Engineer/Data Scientist based in New York City. I have ex
 
 <br />
 
-### 🔨 Languages and Tools:
+##  🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
 <a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
@@ -45,7 +45,7 @@ I'm a Machine Learning Engineer/Data Scientist based in New York City. I have ex
 
 <br />
 
-### My Skill Set  
+## 💻 My Skill Set  
 <div align="center">   
 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
