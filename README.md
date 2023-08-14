@@ -14,7 +14,7 @@ I'm a Machine Learning Engineer/Data Scientist based in New York City. I have ex
 
 <br />
 
-## Connect with me
+## 🌎 Connect with me
 
 <div align="center">
 <a href="https://github.com/manishkumart" target="_blank">
