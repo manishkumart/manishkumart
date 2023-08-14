@@ -1,7 +1,12 @@
 ### Hi there 👋
 
+<br>
+<br>
+
 Hey! I'm Manish and I am a Machine learning Engineer/Data Scientist based in New York City. I have experience in Applied Machine learning, Computer Vision, Natural Language processing, and Python programming. 
 
+<br>
+<br>
 
 - 🌱 I’m currently learning Advance NLP (LLM) and Computer Vision
 - 👯 I’m looking to collaborate on some exciting research work in the AI space
