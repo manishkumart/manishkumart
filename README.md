@@ -8,6 +8,11 @@
 <br>
 <br>
 
+### <div align="center">| Mathematics | Data Science | Machine Learning | Deep Learning | Computer Vision | Natural Language Processing | Artificial Intelligence |</div> 
+
+<br>
+<br>
+
 ## Connect with me
 
 <div align="center">
