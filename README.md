@@ -43,8 +43,8 @@ I'm a Machine Learning Engineer/Data Scientist based in New York City. I have ex
 <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/hadoop/hadoop.svg" align="left" alt="git" height='42px'/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/docker/docker.svg" align="left" alt="git" height='42px'/> </a>
 
-<br />
-<br />
+<br>
+<br>
 
 ## 💻 My Skill Set  
 <div align="center">   
