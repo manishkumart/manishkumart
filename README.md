@@ -4,7 +4,7 @@ I'm a Machine Learning Engineer/Data Scientist based in New York City. I have ex
 
 <br />
 
-- 🌱 I’m currently learning Advance NLP (LLM) and Computer Vision
+- 🌱 I’m currently learning Advance NLP (LLM) 
 - 👯 I’m looking to collaborate on some exciting research work in the AI space
 - 💬 Ask me anything about machine learning to NLP 
 
