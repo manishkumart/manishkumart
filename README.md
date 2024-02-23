@@ -4,8 +4,7 @@ I'm a Machine Learning Engineer/Data Scientist based in New York City. I have ex
 
 <br />
 
-- 👨🏻‍💻 I can write my own Transformer code in python with PEFT (Parameter Efficient Fine Tuning)
-- 🌱 I’m currently learning Advance NLP (LLM) 
+- 👨🏻‍💻 Building Tiny Vision Language Models
 - 👯 I’m looking to collaborate on some exciting research work in the AI space
 - 💬 Ask me anything about machine learning to NLP 
 
