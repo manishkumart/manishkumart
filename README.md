@@ -69,7 +69,5 @@ I'm a Machine Learning Engineer/Data Scientist based in New York City. I have ex
  
 </div>
 
-<br />
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
