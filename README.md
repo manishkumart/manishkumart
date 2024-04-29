@@ -5,8 +5,10 @@ I'm a Machine Learning Scientist/Data Scientist based in New York City. I have e
 <br />
 
 - 👨🏻‍💻 Building Vision Language Models
-- 👯 I’m looking to collaborate on some exciting research work in the AI space
-- 💬 Ask me anything about machine learning to NLP 
+- 🌏 I’m looking to collaborate on some exciting research work in the AI space
+- 💬 Ask me anything about machine learning to NLP
+- 👨‍🏫 Current Teacher Assistant and Student Assistant at Katz School of Science and Health
+- 🏆 Main Author for 'SparrowVQE', a 3B parameter AI for enhanced visual question explanation in machine learning education, demonstrating an innovative approach in interactive learning and dataset design.
 
 <br />
 
