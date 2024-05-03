@@ -4,7 +4,7 @@ I'm a Machine Learning Scientist/Data Scientist based in New York City. I have e
 
 <br />
 
-- 👨🏻‍💻 Building Vision Language Models
+- 👨🏻‍💻 Building Vision & Language Models
 - 🌏 I’m looking to collaborate on some exciting research work in the AI space
 - 💬 Ask me anything about machine learning to NLP
 - 👨‍🏫 Current Teacher Assistant and Student Assistant at Katz School of Science and Health
